@@ -2,10 +2,10 @@
 """
 Created on Tue Aug 24 15:43:36 2021
 
-@author: 2900888
+@author: Tarjei T
 """
 
-tall = 5
+tall = 1
 while tall != 10:
     print(tall)
     tall = tall + 2
